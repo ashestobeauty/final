@@ -1,0 +1,85 @@
+body{
+    background-image:url("http://i.huffpost.com/gen/1671930/images/o-MAKEUP-facebook.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+h1 {
+    background-color:#EC95A6;
+    padding:25px;
+    font-family:Edwardian Script ITC;
+    margin:0px;
+    border-radius:10px;
+    color:white;
+    font-weight:bolder;
+    font-size:70px;
+}
+#title{
+    background-color:#e5c4ca;
+    border-radius:10px;
+    margin-bottom:5px;
+}
+h2 {
+    color:white;
+    font-family:Arial;
+    padding:15px;
+    margin:0px;
+    border-radius:15px;
+}
+ ul {
+     margin:20px 100px 20px 100px;
+     padding:0px;
+     padding-left:30px;
+ }
+ 
+ #nav { 
+    padding:10px 10px 10px 10px;
+    background-color:black;
+    margin:0px;
+    margin-bottom:5px;
+    font-family:Courier;
+    border-radius:10px;
+    color:white;
+}
+#nav li {
+    display:inline;
+    
+}
+
+li a:link {
+    color:white;
+    padding-right:20px;
+}
+
+#sale h2{
+    color:black;
+    font-size:29px;
+    font-family:sans-serif;
+    margin:0px;
+}
+#babe h2{
+    margin-bottom:10px;
+}
+#info{
+    border-radius:15px;
+}
+#babe{
+    background-color:#4E3444;
+    color:white;
+    margin:0px;
+    padding:30px;
+    width:250px;
+    border-radius:10px;
+   
+}
+p {
+    background-color:#D8D1BC;
+    margin:0px;
+    padding:20px;
+}
+#social {
+    padding:40px;
+    margin:0px;
+}
+#babe p{
+    padding:5px 40px;
+}
